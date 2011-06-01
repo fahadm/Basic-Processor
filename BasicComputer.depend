@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1298748240 source:c:\documents and settings\hp\my documents\my projects\basiccomputer\bus.cc
+	"bus.h"
+
+1298792167 c:\documents and settings\hp\my documents\my projects\basiccomputer\general.h
+
+1298749356 c:\documents and settings\hp\my documents\my projects\basiccomputer\bus.h
+
+1298831561 source:c:\documents and settings\hp\my documents\my projects\basiccomputer\general.cc
+	"Registers.h"
+
+1298785990 c:\documents and settings\hp\my documents\my projects\basiccomputer\registers.h
+	"General.h"
+
+1306943153 source:c:\documents and settings\hp\my documents\my projects\basiccomputer\decodeop.cc
+	"Registers.h"
+	"bus.h"
+	"fetch.h"
+
+1298819310 c:\documents and settings\hp\my documents\my projects\basiccomputer\headers.h
+	<windows.h>
+	"DecodeOP.cc"
+
+1298700385 source:c:\documents and settings\hp\my documents\my projects\basiccomputer\headers.h
+	"General.h"
+	"Registers.h"
+	"bus.h"
+
+1306943153 source:c:\documents and settings\hp\my documents\my projects\basiccomputer\main.cc
+	"Headers.h"
+
+1298702716 source:c:\documents and settings\hp\my documents\my projects\basiccomputer\registers.h
+	"General.h"
+
+1298832653 source:c:\documents and settings\hp\my documents\my projects\basiccomputer\registers.cc
+	"Registers.h"
+
+1306943216 source:c:\documents and settings\hp\my documents\my projects\basiccomputer\fetch.cc
+	"Fetch.h"
+	"Registers.h"
+
+1306943237 c:\documents and settings\hp\my documents\my projects\basiccomputer\fetch.h
+	<fstream>
+	<sstream>
+	<iostream>
+
+1306943153 c:\documents and settings\hp\my documents\my projects\basiccomputer\decodeop.cc
+	"Registers.h"
+	"bus.h"
+	"fetch.h"
+
